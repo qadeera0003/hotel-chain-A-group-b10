@@ -11,10 +11,9 @@ patterns and builds a predictive model to classify reservation outcomes:
 Check-Out, Cancelled, or No-Show.
 - - -
 ## Repository Structure
-`data/` – Training and validation datasets
-`coding files/eda_files_train_groupb10.py` – Exploratory Data Analysis
-`coding files/modeltraining_groupb10.py` – Model training (Decision Tree + Neural
-Networks)
+- `data/` – Training and validation datasets
+- `coding files/eda_files_train_groupb10.py` – Exploratory Data Analysis
+- `coding files/modeltraining_groupb10.py` – Model training (Decision Tree + Neural Networks)
 - `requirements.txt` – Python dependencies
 ## Models Built
 - Decision Tree Classifier
